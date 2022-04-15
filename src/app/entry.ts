@@ -2,6 +2,7 @@ import { Engine } from "./engine/engine";
 import { Snake } from "./game-objects/snake";
 import { FoodController } from "./game-controllers/food-controller";
 import { ConfigType } from "./config";
+import "../css/main.css";
 
 
 const config: ConfigType = {
