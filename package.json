@@ -1,0 +1,24 @@
+{
+  "name": "js-snake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adaptmen/js-snake.git"
+  },
+  "author": "Denis Voronchikhin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adaptmen/js-snake/issues"
+  },
+  "homepage": "https://github.com/adaptmen/js-snake#readme",
+  "dependencies": {
+    "typescript": "4.6.3",
+    "vite": "2.9.1"
+  }
+}
